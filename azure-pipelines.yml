@@ -22,4 +22,4 @@ steps:
     action: 'Update image'
     vmssName: 'pocss'
     vmssOsType: 'Windows'
-    imageUrl: 'https://portal.azure.com/#@somatest1980outlook.onmicrosoft.com/resource/subscriptions/c3c6fa00-1425-4a14-ae52-2311dc031a30/resourceGroups/WS/providers/Microsoft.Compute/images/base-app-image/overview'
+    imageUrl: 'https://portal.azure.com/#@somatest1980outlook.onmicrosoft.com/resource/subscriptions/c3c6fa00-1425-4a14-ae52-2311dc031a30/resourcegroups/WS/providers/Microsoft.Compute/virtualMachineScaleSets/pocss/overview'
